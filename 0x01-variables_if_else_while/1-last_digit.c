@@ -6,7 +6,7 @@
  *
  * This function serves as the entry point for the program execution.
  * It generates a random number, determines whether it is greater than 5,
- * is zero or less than 6 but not zero, and prints the last digit of the number.
+ * zero or less than 6 but not zero, and prints the last digit of the number.
  *
  * Return: Always 0 (success)
  */
